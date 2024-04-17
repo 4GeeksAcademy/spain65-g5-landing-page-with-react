@@ -6,9 +6,6 @@ import Footer from './Footer.jsx'
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import Navbar from "./navbar";
-import Jumbotron from "./Jumbotron";
-import Card from "./card";
 
 //create your first component
 const Home = () => {
